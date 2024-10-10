@@ -13,7 +13,6 @@ public class Libro {
         this.autor = autor;
         this.publisher = publisher;
         this.pages = pages;
-
     }
 
     public void printbook(){

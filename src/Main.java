@@ -2,7 +2,7 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
         public static void main(String[] args) {
-            System.out.println("Hello World!");
+            System.out.println("Clase2 - Programación Orientada a Objetos!\n");
             // para declarar el objeto
             // para instanciar una clase
             Libro libro1 = new Libro("El Resplandor","Sthephen King","De Bolsillo", 600);
@@ -21,8 +21,5 @@ public class Main {
             System.out.println(libro4.print_bookcover());
             libro5.printbook();
             System.out.println(libro5.print_bookcover());
-
-
-
         }
 }
