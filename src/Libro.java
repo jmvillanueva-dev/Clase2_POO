@@ -15,6 +15,7 @@ public class Libro {
         this.pages = pages;
     }
 
+    //métodos personalizados
     public void printbook(){
         System.out.println("El título del libro es: " + this.title);
         System.out.println("El autor es: " + this.autor);
