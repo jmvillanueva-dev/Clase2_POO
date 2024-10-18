@@ -1,3 +1,5 @@
+package Otros;
+
 public class Persona {
     String nombre;
     String genero;

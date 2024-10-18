@@ -1,3 +1,5 @@
+package Musica;
+
 public class Instrumento_musical {
     String nombre;
     String tipo;

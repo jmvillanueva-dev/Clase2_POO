@@ -1,3 +1,5 @@
+package Movilidad;
+
 public class Transporte {
     String tipo;
     String marca;

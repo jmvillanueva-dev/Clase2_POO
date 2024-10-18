@@ -1,3 +1,5 @@
+package Movilidad;
+
 public class Auto {
     String  marca;
     String modelo;

@@ -1,3 +1,5 @@
+package TV;
+
 public class Pelicula {
     //Atributos
     String nombre;
@@ -5,6 +7,10 @@ public class Pelicula {
     String director;
     int anio_estreno;
     float calificacion ;
+
+    public Pelicula() {
+
+    }
 
     //Constructor
     public Pelicula(String nombre, String genero,String director,int anio_estreno,float calificacion){
@@ -66,4 +72,7 @@ public class Pelicula {
         System.out.println("Calificacion: "+getCalificacion());
         System.out.println("-----------------------------------");
     }
+
+    public void metodo1(){}
+    private void metodo2(){}
 }

@@ -1,3 +1,5 @@
+package TV;
+
 public class Series {
     String nombre;
     String genero;

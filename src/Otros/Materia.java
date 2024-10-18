@@ -1,3 +1,5 @@
+package Otros;
+
 public class Materia {
     String nombre;
     String codigo;
